@@ -1,0 +1,3 @@
+git
+git@github.com:jfro1/datasciencecoursera.git
+ssh-keygen -t rsa -C "jbrokob@gmail.com"
