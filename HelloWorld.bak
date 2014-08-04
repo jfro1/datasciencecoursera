@@ -1,3 +1,3 @@
-##THIS IS A MARKDOWN FILE
+## THIS IS A MARKDOWN FILE
 
 https://github.com/jfro1/datasciencecoursera.git
